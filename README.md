@@ -1,2 +1,1 @@
-# b85encoder_py
-To encode/decode file to/from b85 txt files. 
+To encode/decode files to/from b85 txt files. 
